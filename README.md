@@ -617,19 +617,23 @@ Publish the website in the given URL.
 
 ### Home page output:
 
-![output](./img/home1.png)
-![output](./img/home2.png)
+![output](./home1.png)
+![output](./home2.png)
 
 ### Gallery page output:
 
 
-![output](./img/gallery1.png)
-![output](./img/gallery2.png)
-![output](./img/aboutus.png)
+![output](./gallery1.png)
+![output](./gallery2.png)
+![output](./aboutus.png)
 
 
 ### About us Page output:
 
+![output](./aboutus.png)
 
 ## Result:
+
+Thus the website is designed using Bootstrap Framework
+
 
